@@ -30,4 +30,5 @@ This project helped me learn GUI development in Python, event handling, button f
 
 ## Author
 
-Ishaan
+Ishaan Agrawal
+B.Tech Grad (IIIT Ranchi)
